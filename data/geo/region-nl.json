@@ -1,0 +1,124 @@
+{
+    "province": [
+        {
+            "code": "NL-01",
+            "parent": "NL",
+            "translations": {
+                "de": "Drenthe",
+                "en": "Drenthe",
+                "fr": "Drenthe",
+                "nl": "Drenthe"
+            }
+        },
+        {
+            "code": "NL-16",
+            "parent": "NL",
+            "translations": {
+                "de": "Flevoland",
+                "en": "Flevoland",
+                "fr": "Flevoland",
+                "nl": "Flevoland"
+            }
+        },
+        {
+            "code": "NL-02",
+            "parent": "NL",
+            "translations": {
+                "de": "Friesland",
+                "en": "Friesland",
+                "fr": "Friesland",
+                "nl": "Friesland"
+            }
+        },
+        {
+            "code": "NL-03",
+            "parent": "NL",
+            "translations": {
+                "de": "Gelderland",
+                "en": "Gelderland",
+                "fr": "Gelderland",
+                "nl": "Gelderland"
+            }
+        },
+        {
+            "code": "NL-04",
+            "parent": "NL",
+            "translations": {
+                "de": "Groningen",
+                "en": "Groningen",
+                "fr": "Groningen",
+                "nl": "Groningen"
+            }
+        },
+        {
+            "code": "NL-05",
+            "parent": "NL",
+            "translations": {
+                "de": "Limburg",
+                "en": "Limburg",
+                "fr": "Limburg",
+                "nl": "Limburg"
+            }
+        },
+        {
+            "code": "NL-06",
+            "parent": "NL",
+            "translations": {
+                "de": "Noord-Brabant",
+                "en": "Noord-Brabant",
+                "fr": "Noord-Brabant",
+                "nl": "Noord-Brabant"
+            }
+        },
+        {
+            "code": "NL-07",
+            "parent": "NL",
+            "translations": {
+                "de": "Noord-Holland",
+                "en": "Noord-Holland",
+                "fr": "Noord-Holland",
+                "nl": "Noord-Holland"
+            }
+        },
+        {
+            "code": "NL-15",
+            "parent": "NL",
+            "translations": {
+                "de": "Overijssel",
+                "en": "Overijssel",
+                "fr": "Overijssel",
+                "nl": "Overijssel"
+            }
+        },
+        {
+            "code": "NL-09",
+            "parent": "NL",
+            "translations": {
+                "de": "Utrecht",
+                "en": "Utrecht",
+                "fr": "Utrecht",
+                "nl": "Utrecht"
+            }
+        },
+        {
+            "code": "NL-10",
+            "parent": "NL",
+            "translations": {
+                "de": "Zeeland",
+                "en": "Zeeland",
+                "fr": "Zeeland",
+                "nl": "Zeeland"
+            }
+        },
+        {
+            "code": "NL-11",
+            "parent": "NL",
+            "translations": {
+                "de": "Zuid-Holland",
+                "en": "Zuid-Holland",
+                "fr": "Zuid-Holland",
+                "nl": "Zuid-Holland"
+            }
+        }
+    ]
+}

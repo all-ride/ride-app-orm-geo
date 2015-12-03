@@ -1,0 +1,29 @@
+{
+    "dependencies": [
+        {
+            "class": "ride\\service\\GeoImportService",
+            "calls": [
+                {
+                    "method": "__construct",
+                    "arguments": [
+                        {
+                            "name": "geoLocationModel",
+                            "type": "call",
+                            "properties": {
+                                "interface": "ride\\library\\orm\\OrmManager",
+                                "method": "getGeoLocationModel"
+                            }
+                        },
+                        {
+                            "name": "path",
+                            "type": "scalar",
+                            "properties": {
+                                "value": "data/geo"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

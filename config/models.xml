@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<models>
+    <model name="GeoLocation" modelClass="ride\application\orm\geo\model\GeoLocationModel" entryClass="ride\application\orm\geo\entry\GeoLocationEntry">
+        <field name="path" type="string">
+            <validation name="required"/>
+        </field>
+        <field name="parent" model="GeoLocation" relation="belongsTo">
+            <option name="scaffold.search" value="true"/>
+        </field>
+        <field name="children" model="GeoLocation" relation="hasMany" foreignKey="parent">
+            <option name="scaffold.search" value="true"/>
+        </field>
+        <field name="type" type="string">
+            <option name="scaffold.search" value="true"/>
+            <validation name="required"/>
+        </field>
+        <field name="name" type="string" localized="true">
+            <option name="scaffold.order" value="true"/>
+            <option name="scaffold.search" value="true"/>
+            <validation name="required"/>
+        </field>
+        <field name="code" type="string">
+            <option name="scaffold.order" value="true"/>
+            <option name="scaffold.search" value="true"/>
+            <validation name="required"/>
+        </field>
+        <field name="latitude" type="float"/>
+        <field name="longitude" type="float"/>
+
+        <format name="title">{name}</format>
+        <format name="teaser">{type} {code}</format>
+
+        <option name="json.api" value="geo-locations"/>
+        <option name="order.field" value="name" />
+    </model>
+</models>

@@ -1,0 +1,224 @@
+{
+    "province": [
+        {
+            "code": "FR-97",
+            "parent": "FR",
+            "translations": {
+                "de": "Aquitaine",
+                "en": "Aquitaine",
+                "fr": "Aquitaine",
+                "nl": "Aquitaine"
+            }
+        },
+        {
+            "code": "FR-98",
+            "parent": "FR",
+            "translations": {
+                "de": "Auvergne",
+                "en": "Auvergne",
+                "fr": "Auvergne",
+                "nl": "Auvergne"
+            }
+        },
+        {
+            "code": "FR-99",
+            "parent": "FR",
+            "translations": {
+                "de": "Basse-Normandie",
+                "en": "Lower Normandy",
+                "fr": "Basse-Normandie",
+                "nl": "Basse-Normandie"
+            }
+        },
+        {
+            "code": "FR-A1",
+            "parent": "FR",
+            "translations": {
+                "de": "Burgund",
+                "en": "Burgundy",
+                "fr": "Bourgogne",
+                "nl": "Bourgondië"
+            }
+        },
+        {
+            "code": "FR-A2",
+            "parent": "FR",
+            "translations": {
+                "de": "Bretagne",
+                "en": "Brittany",
+                "fr": "Bretagne",
+                "nl": "Bretagne"
+            }
+        },
+        {
+            "code": "FR-A3",
+            "parent": "FR",
+            "translations": {
+                "de": "Centre",
+                "en": "Centre-Val de Loire",
+                "fr": "Center",
+                "nl": "Centre"
+            }
+        },
+        {
+            "code": "FR-A4",
+            "parent": "FR",
+            "translations": {
+                "de": "Champagne-Ardenne",
+                "en": "Champagne-Ardenne",
+                "fr": "Champagne-Ardenne",
+                "nl": "Champagne-Ardenne"
+            }
+        },
+        {
+            "code": "FR-A5",
+            "parent": "FR",
+            "translations": {
+                "de": "Korsika",
+                "en": "Corsica",
+                "fr": "Corse",
+                "nl": "Corsica"
+            }
+        },
+        {
+            "code": "FR-A6",
+            "parent": "FR",
+            "translations": {
+                "de": "Franche-Comté",
+                "en": "Franche-Comté",
+                "fr": "Franche-Comté",
+                "nl": "Franche-Comté"
+            }
+        },
+        {
+            "code": "FR-A7",
+            "parent": "FR",
+            "translations": {
+                "de": "Haute-Normandie",
+                "en": "Upper Normandy",
+                "fr": "Haute-Normandie",
+                "nl": "Haute-Normandie"
+            }
+        },
+        {
+            "code": "FR-A8",
+            "parent": "FR",
+            "translations": {
+                "de": "Île-de-France",
+                "en": "Île-de-France",
+                "fr": "Île-de-France",
+                "nl": "Île-de-France"
+            }
+        },
+        {
+            "code": "FR-A9",
+            "parent": "FR",
+            "translations": {
+                "de": "Languedoc-Roussillon",
+                "en": "Languedoc-Roussillon",
+                "fr": "Languedoc-Roussillon",
+                "nl": "Languedoc-Roussillon"
+            }
+        },
+        {
+            "code": "FR-B1",
+            "parent": "FR",
+            "translations": {
+                "de": "Limousin",
+                "en": "Limousin",
+                "fr": "Limousin",
+                "nl": "Limousin"
+            }
+        },
+        {
+            "code": "FR-B2",
+            "parent": "FR",
+            "translations": {
+                "de": "Lothringen",
+                "en": "Lorraine",
+                "fr": "Lorraine",
+                "nl": "Lotharingen"
+            }
+        },
+        {
+            "code": "FR-B3",
+            "parent": "FR",
+            "translations": {
+                "de": "Midi-Pyrénées",
+                "en": "Midi-Pyrénées",
+                "fr": "Midi-Pyrénées",
+                "nl": "Midi-Pyrénées"
+            }
+        },
+        {
+            "code": "FR-B4",
+            "parent": "FR",
+            "translations": {
+                "de": "Nord-Pas-de-Calais",
+                "en": "Nord-Pas-de-Calais",
+                "fr": "Nord-Pas-de-Calais",
+                "nl": "Nord-Pas-de-Calais"
+            }
+        },
+        {
+            "code": "FR-B5",
+            "parent": "FR",
+            "translations": {
+                "de": "Pays de la Loire",
+                "en": "Pays de la Loire",
+                "fr": "Pays de la Loire",
+                "nl": "Pays de la Loire"
+            }
+        },
+        {
+            "code": "FR-B6",
+            "parent": "FR",
+            "translations": {
+                "de": "Picardie",
+                "en": "Picardy",
+                "fr": "Picardie",
+                "nl": "Picardië"
+            }
+        },
+        {
+            "code": "FR-B7",
+            "parent": "FR",
+            "translations": {
+                "de": "Poitou-Charentes",
+                "en": "Poitou-Charentes",
+                "fr": "Poitou-Charentes",
+                "nl": "Poitou-Charentes"
+            }
+        },
+        {
+            "code": "FR-B8",
+            "parent": "FR",
+            "translations": {
+                "de": "Provence-Alpes-Côte d'Azur",
+                "en": "Provence-Alpes-Côte d'Azur",
+                "fr": "Provence-Alpes-Côte d'Azur",
+                "nl": "Provence-Alpes-Côte d'Azur"
+            }
+        },
+        {
+            "code": "FR-B9",
+            "parent": "FR",
+            "translations": {
+                "de": "Rhône-Alpes",
+                "en": "Rhône-Alpes",
+                "fr": "Rhône-Alpes",
+                "nl": "Rhône-Alpes"
+            }
+        },
+        {
+            "code": "FR-C1",
+            "parent": "FR",
+            "translations": {
+                "de": "Elsass",
+                "en": "Alsace",
+                "fr": "Alsace",
+                "nl": "Alsace"
+            }
+        }
+    ]
+}

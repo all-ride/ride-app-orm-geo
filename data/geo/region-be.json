@@ -1,0 +1,136 @@
+{
+    "region": [
+        {
+            "code": "BE-BRU",
+            "parent": "BE",
+            "translations": {
+                "de": "Brussels Hoofdstedelijk Gewest",
+                "en": "Brussels-Capital",
+                "fr": "Région de Bruxelles-Capitale",
+                "nl": "Brussels Hoofdstedelijk Gewest"
+            }
+        },
+        {
+            "code": "BE-VLG",
+            "parent": "BE",
+            "translations": {
+                "de": "Vlaams Gewest",
+                "en": "Flemish Region",
+                "fr": "Région Flamande",
+                "nl": "Vlaams Gewest"
+            }
+        },
+        {
+            "code": "BE-WAL",
+            "parent": "BE",
+            "translations": {
+                "de": "Waals Gewest",
+                "en": "Walloon Region",
+                "fr": "Région Wallonne",
+                "nl": "Waals Gewest"
+            }
+        }
+    ],
+    "province": [
+        {
+            "code": "BE-VAN",
+            "parent": "BE-VLG",
+            "translations": {
+                "de": "Antwerpen",
+                "en": "Antwerp",
+                "fr": "Anvers",
+                "nl": "Antwerpen"
+            }
+        },
+        {
+            "code": "BE-WBR",
+            "parent": "BE-WAL",
+            "translations": {
+                "de": "Brabant wallon",
+                "en": "Brabant wallon",
+                "fr": "Brabant wallon",
+                "nl": "Waals-Brabant"
+            }
+        },
+        {
+            "code": "BE-WHT",
+            "parent": "BE-WAL",
+            "translations": {
+                "de": "Hainaut",
+                "en": "Hainaut",
+                "fr": "Hainaut",
+                "nl": "Henegouwen"
+            }
+        },
+        {
+            "code": "BE-WLG",
+            "parent": "BE-WAL",
+            "translations": {
+                "de": "Liège",
+                "en": "Liège",
+                "fr": "Liège",
+                "nl": "Luik"
+            }
+        },
+        {
+            "code": "BE-VLI",
+            "parent": "BE-VLG",
+            "translations": {
+                "de": "Limburg",
+                "en": "Limburg",
+                "fr": "Limbourg",
+                "nl": "Limburg"
+            }
+        },
+        {
+            "code": "BE-WLX",
+            "parent": "BE-WAL",
+            "translations": {
+                "de": "Luxembourg",
+                "en": "Luxembourg",
+                "fr": "Luxembourg",
+                "nl": "Luxemburg"
+            }
+        },
+        {
+            "code": "BE-WNA",
+            "parent": "BE-WAL",
+            "translations": {
+                "de": "Namur",
+                "en": "Namur",
+                "fr": "Namur",
+                "nl": "Namen"
+            }
+        },
+        {
+            "code": "BE-VOV",
+            "parent": "BE-VLG",
+            "translations": {
+                "de": "Oost-Vlaanderen",
+                "en": "Oost-Vlaanderen",
+                "fr": "Flandre orientale",
+                "nl": "Oost-Vlaanderen"
+            }
+        },
+        {
+            "code": "BE-VBR",
+            "parent": "BE-VLG",
+            "translations": {
+                "de": "Vlaams-Brabant",
+                "en": "Vlaams-Brabant",
+                "fr": "Brabant flamand",
+                "nl": "Vlaams-Brabant"
+            }
+        },
+        {
+            "code": "BE-VWV",
+            "parent": "BE-VLG",
+            "translations": {
+                "de": "West-Vlaanderen",
+                "en": "West-Vlaanderen",
+                "fr": "Flandre occidentale",
+                "nl": "West-Vlaanderen"
+            }
+        }
+    ]
+}

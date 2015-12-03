@@ -1,0 +1,23 @@
+{
+    "name": "ride/app-orm-geo",
+    "description": "Geo location model for the Ride ORM.",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        }
+    ],
+    "require": {
+        "ride/app-orm": ">=0.2.0",
+        "ride/lib-geocoding": "*",
+        "ride/lib-orm": ">=0.3.0",
+        "ride/lib-system": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "ride\\application\\orm\\geo\\": ["src/"],
+            "ride\\service\\\\": ["src/"]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "continent": [
+        {
+            "code": "AFRICA",
+            "translations": {
+                "nl": "Afrika",
+                "fr": "Afrique",
+                "en": "Africa",
+                "de": "Afrika"
+            }
+        },
+        {
+            "code": "ANTARCTICA",
+            "translations": {
+                "nl": "Antarctica",
+                "fr": "Antarctique",
+                "en": "Antarctic",
+                "de": "Antarktis"
+            }
+        },
+        {
+            "code": "ASIA",
+            "translations": {
+                "nl": "Azi\u00eb",
+                "fr": "Asie",
+                "en": "Asia",
+                "de": "Asien"
+            }
+        },
+        {
+            "code": "EUROPE",
+            "translations": {
+                "nl": "Europa",
+                "fr": "Europe",
+                "en": "Europe",
+                "de": "Europa"
+            }
+        },
+        {
+            "code": "NORTH_AMERICA",
+            "translations": {
+                "nl": "Noord-Amerika",
+                "fr": "Am\u00e9rique du Sud",
+                "en": "North America",
+                "de": "Nordamerika"
+            }
+        },
+        {
+            "code": "OCEANIA",
+            "translations": {
+                "nl": "Oceani\u00eb",
+                "fr": "Oc\u00e9anie",
+                "en": "Oceania",
+                "de": "Ozeanien"
+            }
+        },
+        {
+            "code": "SOUTH_AMERICA",
+            "translations": {
+                "nl": "Zuid-Amerika",
+                "fr": "Am\u00e9rique du Nord",
+                "en": "South America",
+                "de": "S\u00fcdamerika"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2441 @@
+{
+    "country": [
+        {
+            "code": "AF",
+            "translations": {
+                "nl": "Afghanistan",
+                "fr": "Afghanistan",
+                "en": "Afghanistan",
+                "de": "Afghanistan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "AL",
+            "translations": {
+                "nl": "Albani\u00eb",
+                "fr": "Albanie",
+                "en": "Albania",
+                "de": "Albanien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "DZ",
+            "translations": {
+                "nl": "Algerije",
+                "fr": "Alg\u00e9rie",
+                "en": "Algeria",
+                "de": "Algerien"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "AS",
+            "translations": {
+                "nl": "Amerikaans Samoa",
+                "fr": "Samoa Am\u00e9ricaines",
+                "en": "American Samoa",
+                "de": "American Samoa"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "VI",
+            "translations": {
+                "nl": "Amerikaanse Maagdeneilanden",
+                "fr": "\u00celes Vierges des \u00c9tats-unis",
+                "en": "Virgin Islands (U.S.)",
+                "de": "Virgin Islands (U.S.)"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "AD",
+            "translations": {
+                "nl": "Andorra",
+                "fr": "Andorre",
+                "en": "Andorra",
+                "de": "Andorra"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "AO",
+            "translations": {
+                "nl": "Angola",
+                "fr": "Angola",
+                "en": "Angola",
+                "de": "Angola"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "AI",
+            "translations": {
+                "nl": "Anguilla",
+                "fr": "Anguilla",
+                "en": "Anguilla",
+                "de": "Anguilla"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "AQ",
+            "translations": {
+                "nl": "Antarctica",
+                "fr": "Antarctique",
+                "en": "Antarctica",
+                "de": "Antarctica"
+            },
+            "parent": "ANTARCTICA"
+        },
+        {
+            "code": "AG",
+            "translations": {
+                "nl": "Antigua en Barbuda",
+                "fr": "Antigua-et-Barbuda",
+                "en": "Antigua and Barbuda",
+                "de": "Antigua and Barbuda"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "AR",
+            "translations": {
+                "nl": "Argentini\u00eb",
+                "fr": "Argentine",
+                "en": "Argentina",
+                "de": "Argentinien"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "AM",
+            "translations": {
+                "nl": "Armeni\u00eb",
+                "fr": "Arm\u00e9nie",
+                "en": "Armenia",
+                "de": "Armenien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "AW",
+            "translations": {
+                "nl": "Aruba",
+                "fr": "Aruba",
+                "en": "Aruba",
+                "de": "Aruba"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "AU",
+            "translations": {
+                "nl": "Australi\u00eb",
+                "fr": "Australie",
+                "en": "Australia",
+                "de": "Australien"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "AZ",
+            "translations": {
+                "nl": "Azerbaijan",
+                "fr": "Azerba\u00efdjan",
+                "en": "Azerbaijan",
+                "de": "Aserbaidschan"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "BS",
+            "translations": {
+                "nl": "Bahama's",
+                "fr": "Bahamas",
+                "en": "Bahamas",
+                "de": "Bahamas"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "BH",
+            "translations": {
+                "nl": "Bahrein",
+                "fr": "Bahre\u00efn",
+                "en": "Bahrain",
+                "de": "Bahrein"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "BD",
+            "translations": {
+                "nl": "Bangladesh",
+                "fr": "Bangladesh",
+                "en": "Bangladesh",
+                "de": "Bangladesh"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "BB",
+            "translations": {
+                "nl": "Barbados",
+                "fr": "Barbade",
+                "en": "Barbados",
+                "de": "Barbados"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "BY",
+            "translations": {
+                "nl": "Belarus",
+                "fr": "Bi\u00e9lorussie",
+                "en": "Belarus",
+                "de": "Belarus"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "BE",
+            "translations": {
+                "nl": "Belgi\u00eb",
+                "fr": "Belgique",
+                "en": "Belgium",
+                "de": "Belgien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "BZ",
+            "translations": {
+                "nl": "Belize",
+                "fr": "Belize",
+                "en": "Belize",
+                "de": "Belize"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "BJ",
+            "translations": {
+                "nl": "Benin",
+                "fr": "B\u00e9nin",
+                "en": "Benin",
+                "de": "Benin"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "BM",
+            "translations": {
+                "nl": "Bermuda",
+                "fr": "Bermudes",
+                "en": "Bermuda",
+                "de": "Bermuda"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "BT",
+            "translations": {
+                "nl": "Bhutan",
+                "fr": "Bhoutan",
+                "en": "Bhutan",
+                "de": "Bhutan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "BO",
+            "translations": {
+                "nl": "Bolivia",
+                "fr": "Bolivie",
+                "en": "Bolivia",
+                "de": "Bolivien"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "BA",
+            "translations": {
+                "nl": "Bosni\u00eb en Herzegovina",
+                "fr": "Bosnie-Herz\u00e9govine",
+                "en": "Bosnia and Herzegovina",
+                "de": "Bosnia and Herzegovina"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "BW",
+            "translations": {
+                "nl": "Botswana",
+                "fr": "Botswana",
+                "en": "Botswana",
+                "de": "Botswana"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "BV",
+            "translations": {
+                "nl": "Bouvet",
+                "fr": "\u00cele Bouvet",
+                "en": "Bouvet Island",
+                "de": "Bouvet Island"
+            },
+            "parent": "ANTARCTICA"
+        },
+        {
+            "code": "BR",
+            "translations": {
+                "nl": "Brazili\u00eb",
+                "fr": "Br\u00e9sil",
+                "en": "Brazil",
+                "de": "Brasilien"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "IO",
+            "translations": {
+                "nl": "Brits Territorium in de Indische Oceaan",
+                "fr": "Territoire britannique de l'oc\u00e9an indien",
+                "en": "British Indian Ocean Territory",
+                "de": "British Indian Ocean Territory"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "VG",
+            "translations": {
+                "nl": "Britse Maagdeneilanden",
+                "fr": "\u00celes Vierges Britanniques",
+                "en": "Virgin Islands (British)",
+                "de": "Virgin Islands (British)"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "BN",
+            "translations": {
+                "nl": "Brunei Darussalam",
+                "fr": "Brun\u00e9i Darussalam",
+                "en": "Brunei Darussalam",
+                "de": "Brunei Darussalam"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "BG",
+            "translations": {
+                "nl": "Bulgarije",
+                "fr": "Bulgarie",
+                "en": "Bulgaria",
+                "de": "Bulgarien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "BF",
+            "translations": {
+                "nl": "Burkina Faso",
+                "fr": "Burkina Faso",
+                "en": "Burkina Faso",
+                "de": "Burkina Faso"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "BI",
+            "translations": {
+                "nl": "Burundi",
+                "fr": "Burundi",
+                "en": "Burundi",
+                "de": "Burundi"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "KH",
+            "translations": {
+                "nl": "Cambodia",
+                "fr": "Cambodge",
+                "en": "Cambodia",
+                "de": "Cambodia"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "CA",
+            "translations": {
+                "nl": "Canada",
+                "fr": "Canada",
+                "en": "Canada",
+                "de": "Kanada"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "KY",
+            "translations": {
+                "nl": "Caymaneilanden",
+                "fr": "\u00efles Ca\u00efmans",
+                "en": "Cayman Islands",
+                "de": "Cayman Islands"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "CF",
+            "translations": {
+                "nl": "Centraal Afrikaanse Republiek",
+                "fr": "R\u00e9publique Centrafricaine",
+                "en": "Central African Republic",
+                "de": "Central African Republic"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "TD",
+            "translations": {
+                "nl": "Chad",
+                "fr": "Tchad",
+                "en": "Chad",
+                "de": "Chad"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "CL",
+            "translations": {
+                "nl": "Chili",
+                "fr": "Chili",
+                "en": "Chile",
+                "de": "Chile"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "CN",
+            "translations": {
+                "nl": "China",
+                "fr": "Chine",
+                "en": "China",
+                "de": "China"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "CX",
+            "translations": {
+                "nl": "Christmaseilanden",
+                "fr": "\u00cele Christmas",
+                "en": "Christmas Island",
+                "de": "Christmas Island"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "CC",
+            "translations": {
+                "nl": "Cocoseilanden",
+                "fr": "\u00celes Cocos (Keeling)",
+                "en": "Cocos (Keeling) Islands",
+                "de": "Cocos (Keeling) Islands"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "CO",
+            "translations": {
+                "nl": "Colombia",
+                "fr": "Colombie",
+                "en": "Colombia",
+                "de": "Colombia"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "KM",
+            "translations": {
+                "nl": "Comoren",
+                "fr": "Comores",
+                "en": "Comoros",
+                "de": "Comoros"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "CG",
+            "translations": {
+                "nl": "Congo",
+                "fr": "Congo",
+                "en": "Congo",
+                "de": "Congo"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "CK",
+            "translations": {
+                "nl": "Cookeilanden",
+                "fr": "\u00celes Cook",
+                "en": "Cook Islands",
+                "de": "Cook Islands"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "CR",
+            "translations": {
+                "nl": "Costa Rica",
+                "fr": "Costa Rica",
+                "en": "Costa Rica",
+                "de": "Costa Rica"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "CU",
+            "translations": {
+                "nl": "Cuba",
+                "fr": "Cuba",
+                "en": "Cuba",
+                "de": "Kuba"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "CY",
+            "translations": {
+                "nl": "Cyprus",
+                "fr": "Chypre",
+                "en": "Cyprus",
+                "de": "Cyprus"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "DK",
+            "translations": {
+                "nl": "Denemarken",
+                "fr": "Danemark",
+                "en": "Denmark",
+                "de": "D\u00e4nemark"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "DJ",
+            "translations": {
+                "nl": "Djibouti",
+                "fr": "Djibouti",
+                "en": "Djibouti",
+                "de": "Djibouti"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "DM",
+            "translations": {
+                "nl": "Dominica",
+                "fr": "Dominique",
+                "en": "Dominica",
+                "de": "Dominica"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "DO",
+            "translations": {
+                "nl": "Dominicaanse Republiek",
+                "fr": "R\u00e9publique Dominicaine",
+                "en": "Dominican Republic",
+                "de": "Dominikanische Republik"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "DE",
+            "translations": {
+                "nl": "Duitsland",
+                "fr": "Allemagne",
+                "en": "Germany",
+                "de": "Deutschland"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "EC",
+            "translations": {
+                "nl": "Ecuador",
+                "fr": "\u00c9quateur",
+                "en": "Ecuador",
+                "de": "Ecuador"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "EG",
+            "translations": {
+                "nl": "Egypte",
+                "fr": "\u00c9gypte",
+                "en": "Egypt",
+                "de": "\u00c4gypten"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SV",
+            "translations": {
+                "nl": "El Salvador",
+                "fr": "El Salvador",
+                "en": "El Salvador",
+                "de": "El Salvador"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "GQ",
+            "translations": {
+                "nl": "Equatoriaal-Guinea",
+                "fr": "Guin\u00e9e \u00c9quatoriale",
+                "en": "Equatorial Guinea",
+                "de": "Equatorial Guinea"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ER",
+            "translations": {
+                "nl": "Eritrea",
+                "fr": "\u00c9rythr\u00e9e",
+                "en": "Eritrea",
+                "de": "Eritrea"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "EE",
+            "translations": {
+                "nl": "Estland",
+                "fr": "Estonie",
+                "en": "Estonia",
+                "de": "Estonia"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "ET",
+            "translations": {
+                "nl": "Ethiopi\u00eb",
+                "fr": "\u00c9thiopie",
+                "en": "Ethiopia",
+                "de": "Ethiopia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "FO",
+            "translations": {
+                "nl": "Faer\u00f6er",
+                "fr": "\u00cfles F\u00e9ro\u00e9",
+                "en": "Faroe Islands",
+                "de": "Faroe Islands"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "FK",
+            "translations": {
+                "nl": "Falklandeilanden",
+                "fr": "\u00cfles Falkland (Malvinas)",
+                "en": "Falkland Islands (Malvinas)",
+                "de": "Falkland Islands (Malvinas)"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "FJ",
+            "translations": {
+                "nl": "Fiji",
+                "fr": "Fidji",
+                "en": "Fiji",
+                "de": "Fiji"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "PH",
+            "translations": {
+                "nl": "Filipijnen",
+                "fr": "Philippines",
+                "en": "Philippines",
+                "de": "Philippinen"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "FI",
+            "translations": {
+                "nl": "Finland",
+                "fr": "Finlande",
+                "en": "Finland",
+                "de": "Finnland"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "FR",
+            "translations": {
+                "nl": "Frankrijk",
+                "fr": "France",
+                "en": "France",
+                "de": "Frankreich"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "FX",
+            "translations": {
+                "nl": "Frankrijk, Metropolitan",
+                "fr": "France, Metropolitan",
+                "en": "France, Metropolitan",
+                "de": "Frankreich, Metropolitan"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "GF",
+            "translations": {
+                "nl": "Frans-Guiana",
+                "fr": "Guyane",
+                "en": "French Guiana",
+                "de": "French Guiana"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "PF",
+            "translations": {
+                "nl": "Frans-Polynesi\u00eb",
+                "fr": "Polyn\u00e9sie Fran\u00e7aise",
+                "en": "French Polynesia",
+                "de": "French Polynesia"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "TF",
+            "translations": {
+                "nl": "Franse Zuidelijke en Antarctische Gebieden",
+                "fr": "Terres Australes Fran\u00e7aises",
+                "en": "French Southern Territories",
+                "de": "French Southern Territories"
+            },
+            "parent": "ANTARCTICA"
+        },
+        {
+            "code": "GA",
+            "translations": {
+                "nl": "Gabon",
+                "fr": "Gabon",
+                "en": "Gabon",
+                "de": "Gabon"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GM",
+            "translations": {
+                "nl": "Gambia",
+                "fr": "Gambie",
+                "en": "Gambia",
+                "de": "Gambia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GE",
+            "translations": {
+                "nl": "Georgi\u00eb",
+                "fr": "G\u00e9orgie",
+                "en": "Georgia",
+                "de": "Georgia"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "GH",
+            "translations": {
+                "nl": "Ghana",
+                "fr": "Ghana",
+                "en": "Ghana",
+                "de": "Ghana"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GI",
+            "translations": {
+                "nl": "Gibraltar",
+                "fr": "Gibraltar",
+                "en": "Gibraltar",
+                "de": "Gibraltar"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "GD",
+            "translations": {
+                "nl": "Grenada",
+                "fr": "Grenade",
+                "en": "Grenada",
+                "de": "Grenada"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "GR",
+            "translations": {
+                "nl": "Griekenland",
+                "fr": "Gr\u00e8ce",
+                "en": "Greece",
+                "de": "Griechenland"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "GL",
+            "translations": {
+                "nl": "Groenland",
+                "fr": "Groenland",
+                "en": "Greenland",
+                "de": "Greenland"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "GB",
+            "translations": {
+                "nl": "Groot Brittani\u00eb",
+                "fr": "Royaume-uni",
+                "en": "Great Britain (UK)",
+                "de": "Gro\u00dfbritannien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "GP",
+            "translations": {
+                "nl": "Guadeloupe",
+                "fr": "Guadeloupe",
+                "en": "Guadeloupe",
+                "de": "Guadeloupe"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "GU",
+            "translations": {
+                "nl": "Guam",
+                "fr": "Guam",
+                "en": "Guam",
+                "de": "Guam"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "GT",
+            "translations": {
+                "nl": "Guatemala",
+                "fr": "Guatemala",
+                "en": "Guatemala",
+                "de": "Guatemala"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "GN",
+            "translations": {
+                "nl": "Guinea",
+                "fr": "Guin\u00e9e",
+                "en": "Guinea",
+                "de": "Guinea"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GW",
+            "translations": {
+                "nl": "Guinee-Bissau",
+                "fr": "Guinea-Bissau",
+                "en": "Guinea-Bissau",
+                "de": "Guinea-Bissau"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GY",
+            "translations": {
+                "nl": "Guyana",
+                "fr": "Guyana",
+                "en": "Guyana",
+                "de": "Guyana"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "HT",
+            "translations": {
+                "nl": "Ha\u00efti",
+                "fr": "Ha\u00efti",
+                "en": "Haiti",
+                "de": "Haiti"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "HM",
+            "translations": {
+                "nl": "Heard en McDonaldeilanden",
+                "fr": "\u00cele Heard-et-\u00efles MacDonald",
+                "en": "Heard and McDonald Islands",
+                "de": "Heard and McDonald Islands"
+            },
+            "parent": "ANTARCTICA"
+        },
+        {
+            "code": "HN",
+            "translations": {
+                "nl": "Honduras",
+                "fr": "Honduras",
+                "en": "Honduras",
+                "de": "Honduras"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "HK",
+            "translations": {
+                "nl": "Hong Kong",
+                "fr": "Hong Kong",
+                "en": "Hong Kong",
+                "de": "Hong Kong"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "HU",
+            "translations": {
+                "nl": "Hongarije",
+                "fr": "Hongrie",
+                "en": "Hungary",
+                "de": "Ungarn"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "IE",
+            "translations": {
+                "nl": "Ierland",
+                "fr": "Irlande",
+                "en": "Ireland",
+                "de": "Irland"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "IS",
+            "translations": {
+                "nl": "Ijsland",
+                "fr": "Islande",
+                "en": "Iceland",
+                "de": "Island"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "IN",
+            "translations": {
+                "nl": "India",
+                "fr": "Inde",
+                "en": "India",
+                "de": "Indien"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "ID",
+            "translations": {
+                "nl": "Indonesi\u00eb",
+                "fr": "Indon\u00e9sie",
+                "en": "Indonesia",
+                "de": "Indonesien"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "IQ",
+            "translations": {
+                "nl": "Irak",
+                "fr": "Iraq",
+                "en": "Iraq",
+                "de": "Iral"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "IR",
+            "translations": {
+                "nl": "Iran",
+                "fr": "Iran",
+                "en": "Iran",
+                "de": "Iran"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "IL",
+            "translations": {
+                "nl": "Isra\u00ebl",
+                "fr": "Isra\u00ebl",
+                "en": "Israel",
+                "de": "Israel"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "IT",
+            "translations": {
+                "nl": "Itali\u00eb",
+                "fr": "Italie",
+                "en": "Italy",
+                "de": "Italien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "CI",
+            "translations": {
+                "nl": "Ivoorkust",
+                "fr": "C\u00f4te D'Ivoire",
+                "en": "Cote D'Ivoire (Ivory Coast)",
+                "de": "Elfenbeink\u00fcste"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "JM",
+            "translations": {
+                "nl": "Jamaica",
+                "fr": "Jama\u00efque",
+                "en": "Jamaica",
+                "de": "Jamaika"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "JP",
+            "translations": {
+                "nl": "Japan",
+                "fr": "Japon",
+                "en": "Japan",
+                "de": "Japan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "YE",
+            "translations": {
+                "nl": "Jemen",
+                "fr": "Y\u00e9men",
+                "en": "Yemen",
+                "de": "Jemen"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "YU",
+            "translations": {
+                "nl": "Joegoslavi\u00eb",
+                "fr": "Yougoslavie",
+                "en": "Yugoslavia",
+                "de": "Yugoslavia"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "JO",
+            "translations": {
+                "nl": "Jordani\u00eb",
+                "fr": "Jordanie",
+                "en": "Jordan",
+                "de": "Jordan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "CV",
+            "translations": {
+                "nl": "Kaapverdi\u00eb",
+                "fr": "Cap-Vert",
+                "en": "Cape Verde",
+                "de": "Cape Verde"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "CM",
+            "translations": {
+                "nl": "Kameroen",
+                "fr": "Cameroun",
+                "en": "Cameroon",
+                "de": "Cameroon"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "KZ",
+            "translations": {
+                "nl": "Kazachstan",
+                "fr": "Kazakhstan",
+                "en": "Kazakhstan",
+                "de": "Kazakhstan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "KE",
+            "translations": {
+                "nl": "Kenia",
+                "fr": "Kenya",
+                "en": "Kenya",
+                "de": "Kenia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "KG",
+            "translations": {
+                "nl": "Kirgizi\u00eb",
+                "fr": "Kirghizistan",
+                "en": "Kyrgyzstan",
+                "de": "Kyrgyzstan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "KI",
+            "translations": {
+                "nl": "Kiribati",
+                "fr": "Kiribati",
+                "en": "Kiribati",
+                "de": "Kiribati"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "UM",
+            "translations": {
+                "nl": "Kleine afgelegen eilanden van de VS",
+                "fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-unis",
+                "en": "US Minor Outlying Islands",
+                "de": "US Minor Outlying Islands"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "KW",
+            "translations": {
+                "nl": "Koeweit",
+                "fr": "Kowe\u00eft",
+                "en": "Kuwait",
+                "de": "Kuwait"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "HR",
+            "translations": {
+                "nl": "Kroati\u00eb (Hrvatska)",
+                "fr": "Croatie",
+                "en": "Croatia (Hrvatska)",
+                "de": "Kroatien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "LA",
+            "translations": {
+                "nl": "Laos",
+                "fr": "Lao",
+                "en": "Laos",
+                "de": "Laos"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "LS",
+            "translations": {
+                "nl": "Lesotho",
+                "fr": "Lesotho",
+                "en": "Lesotho",
+                "de": "Lesotho"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "LV",
+            "translations": {
+                "nl": "Letland",
+                "fr": "Lettonie",
+                "en": "Latvia",
+                "de": "Latvia"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "LB",
+            "translations": {
+                "nl": "Libanon",
+                "fr": "Liban",
+                "en": "Lebanon",
+                "de": "Libanon"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "LR",
+            "translations": {
+                "nl": "Liberi\u00eb",
+                "fr": "Lib\u00e9ria",
+                "en": "Liberia",
+                "de": "Liberien"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "LY",
+            "translations": {
+                "nl": "Libi\u00eb",
+                "fr": "Libye",
+                "en": "Libya",
+                "de": "Libyen"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "LI",
+            "translations": {
+                "nl": "Liechtenstein",
+                "fr": "Liechtenstein",
+                "en": "Liechtenstein",
+                "de": "Liechtenstein"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "LT",
+            "translations": {
+                "nl": "Litouwen",
+                "fr": "Lithuanie",
+                "en": "Lithuania",
+                "de": "Litauen"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "LU",
+            "translations": {
+                "nl": "Luxemburg",
+                "fr": "Luxembourg",
+                "en": "Luxembourg",
+                "de": "Luxemburg"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "MO",
+            "translations": {
+                "nl": "Macau",
+                "fr": "Macao",
+                "en": "Macau",
+                "de": "Macau"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "MK",
+            "translations": {
+                "nl": "Macedoni\u00eb",
+                "fr": "Mac\u00e9doine",
+                "en": "Macedonia",
+                "de": "Macedonia"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "MG",
+            "translations": {
+                "nl": "Madagascar",
+                "fr": "Madagascar",
+                "en": "Madagascar",
+                "de": "Madagaskar"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MW",
+            "translations": {
+                "nl": "Malawi",
+                "fr": "Malawi",
+                "en": "Malawi",
+                "de": "Malawi"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MV",
+            "translations": {
+                "nl": "Maldiven",
+                "fr": "Maldives",
+                "en": "Maldives",
+                "de": "Maldives"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "MY",
+            "translations": {
+                "nl": "Maleisi\u00eb",
+                "fr": "Malaisie",
+                "en": "Malaysia",
+                "de": "Malaysia"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "ML",
+            "translations": {
+                "nl": "Mali",
+                "fr": "Mali",
+                "en": "Mali",
+                "de": "Mali"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MT",
+            "translations": {
+                "nl": "Malta",
+                "fr": "Malte",
+                "en": "Malta",
+                "de": "Malta"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "MA",
+            "translations": {
+                "nl": "Marokko",
+                "fr": "Maroc",
+                "en": "Morocco",
+                "de": "Marokko"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MH",
+            "translations": {
+                "nl": "Marshalleilanden",
+                "fr": "\u00celes Marshall",
+                "en": "Marshall Islands",
+                "de": "Marshall Islands"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "MQ",
+            "translations": {
+                "nl": "Martinique",
+                "fr": "Martinique",
+                "en": "Martinique",
+                "de": "Martinique"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "MR",
+            "translations": {
+                "nl": "Mauritani\u00eb",
+                "fr": "Mauritanie",
+                "en": "Mauritania",
+                "de": "Mauritania"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MU",
+            "translations": {
+                "nl": "Mauritius",
+                "fr": "Maurice",
+                "en": "Mauritius",
+                "de": "Mauritius"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "YT",
+            "translations": {
+                "nl": "Mayotte",
+                "fr": "Mayotte",
+                "en": "Mayotte",
+                "de": "Mayotte"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MX",
+            "translations": {
+                "nl": "Mexico",
+                "fr": "Mexique",
+                "en": "Mexico",
+                "de": "Mexiko"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "FM",
+            "translations": {
+                "nl": "Micronesia",
+                "fr": "Micron\u00e9sie",
+                "en": "Micronesia",
+                "de": "Micronesia"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "MD",
+            "translations": {
+                "nl": "Moldavi\u00eb",
+                "fr": "Moldova",
+                "en": "Moldova",
+                "de": "Moldova"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "MC",
+            "translations": {
+                "nl": "Monaco",
+                "fr": "Monaco",
+                "en": "Monaco",
+                "de": "Monaco"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "MN",
+            "translations": {
+                "nl": "Mongoli\u00eb",
+                "fr": "Mongolie",
+                "en": "Mongolia",
+                "de": "Mongolia"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "MS",
+            "translations": {
+                "nl": "Montserrat",
+                "fr": "Montserrat",
+                "en": "Montserrat",
+                "de": "Montserrat"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "MZ",
+            "translations": {
+                "nl": "Mozambique",
+                "fr": "Mozambique",
+                "en": "Mozambique",
+                "de": "Mosambik"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "MM",
+            "translations": {
+                "nl": "Myanmar",
+                "fr": "Myanmar",
+                "en": "Myanmar",
+                "de": "Myanmar"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "NA",
+            "translations": {
+                "nl": "Namibi\u00eb",
+                "fr": "Namibie",
+                "en": "Namibia",
+                "de": "Namibia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "NR",
+            "translations": {
+                "nl": "Nauru",
+                "fr": "Nauru",
+                "en": "Nauru",
+                "de": "Nauru"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "NL",
+            "translations": {
+                "nl": "Nederland",
+                "fr": "Pays-Bas",
+                "en": "Netherlands",
+                "de": "Niederlande"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "AN",
+            "translations": {
+                "nl": "Nederlandse Antillen",
+                "fr": "Antilles N\u00e9erlandaises",
+                "en": "Netherlands Antilles",
+                "de": "Netherlands Antilles"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "NP",
+            "translations": {
+                "nl": "Nepal",
+                "fr": "N\u00e9pal",
+                "en": "Nepal",
+                "de": "Nepal"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "NT",
+            "translations": {
+                "nl": "Neutrale Zone",
+                "fr": "Zone neutre",
+                "en": "Neutral Zone",
+                "de": "Neutral Zone"
+            }
+        },
+        {
+            "code": "NI",
+            "translations": {
+                "nl": "Nicaragua",
+                "fr": "Nicaragua",
+                "en": "Nicaragua",
+                "de": "Nicaragua"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "NC",
+            "translations": {
+                "nl": "Nieuw Caledoni\u00eb",
+                "fr": "Nouvelle-Cal\u00e9donie",
+                "en": "New Caledonia",
+                "de": "New Caledonia"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "NZ",
+            "translations": {
+                "nl": "Nieuw-Zeeland",
+                "fr": "Nouvelle-Z\u00e9lande",
+                "en": "New Zealand (Aotearoa)",
+                "de": "Neuseeland"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "NE",
+            "translations": {
+                "nl": "Niger",
+                "fr": "Niger",
+                "en": "Niger",
+                "de": "Niger"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "NG",
+            "translations": {
+                "nl": "Nigeri\u00eb",
+                "fr": "Nig\u00e9ria",
+                "en": "Nigeria",
+                "de": "Nigeria"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "NU",
+            "translations": {
+                "nl": "Niue",
+                "fr": "Niu\u00e9",
+                "en": "Niue",
+                "de": "Niue"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "KP",
+            "translations": {
+                "nl": "Noord-Korea",
+                "fr": "Cor\u00e9e du Nord",
+                "en": "Korea (North)",
+                "de": "Nordkorea"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "MP",
+            "translations": {
+                "nl": "Noorderlijke Marianen",
+                "fr": "\u00celes Mariannes du nord",
+                "en": "Northern Mariana Islands",
+                "de": "Northern Mariana Islands"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "NO",
+            "translations": {
+                "nl": "Noorwegen",
+                "fr": "Norv\u00e8ge",
+                "en": "Norway",
+                "de": "Norwegen"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "NF",
+            "translations": {
+                "nl": "Norfolk",
+                "fr": "\u00cele Norfolk",
+                "en": "Norfolk Island",
+                "de": "Norfolk Island"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "UA",
+            "translations": {
+                "nl": "Oekra\u00efne",
+                "fr": "Ukraine",
+                "en": "Ukraine",
+                "de": "Ukraine"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "OM",
+            "translations": {
+                "nl": "Oman",
+                "fr": "Oman",
+                "en": "Oman",
+                "de": "Oman"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TP",
+            "translations": {
+                "nl": "Oost-Timor",
+                "fr": "Timor Oriental",
+                "en": "East Timor",
+                "de": "East Timor"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "AT",
+            "translations": {
+                "nl": "Oostenrijk",
+                "fr": "Autriche",
+                "en": "Austria",
+                "de": "\u00d6sterreich"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "PK",
+            "translations": {
+                "nl": "Pakistan",
+                "fr": "Pakistan",
+                "en": "Pakistan",
+                "de": "Pakistan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "PW",
+            "translations": {
+                "nl": "Palau",
+                "fr": "Palaos",
+                "en": "Palau",
+                "de": "Palau"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "PNA",
+            "translations": {
+                "nl": "Palestijnse Nationale Autoriteit",
+                "fr": "Autorit\u00e9 Nationale Palestinienne",
+                "en": "Palestian National Authority",
+                "de": "Palestian National Authority"
+            }
+        },
+        {
+            "code": "PA",
+            "translations": {
+                "nl": "Panama",
+                "fr": "Panama",
+                "en": "Panama",
+                "de": "Panama"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "PG",
+            "translations": {
+                "nl": "Papoea-Nieuw-Guinea",
+                "fr": "Papouasie-Nouvelle-Guin\u00e9e",
+                "en": "Papua New Guinea",
+                "de": "Papua New Guinea"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "PY",
+            "translations": {
+                "nl": "Paraguay",
+                "fr": "Paraguay",
+                "en": "Paraguay",
+                "de": "Paraguay"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "PE",
+            "translations": {
+                "nl": "Peru",
+                "fr": "P\u00e9rou",
+                "en": "Peru",
+                "de": "Peru"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "PN",
+            "translations": {
+                "nl": "Pitcairneilanden",
+                "fr": "Pitcairn",
+                "en": "Pitcairn",
+                "de": "Pitcairn"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "PL",
+            "translations": {
+                "nl": "Polen",
+                "fr": "Pologne",
+                "en": "Poland",
+                "de": "Polen"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "PT",
+            "translations": {
+                "nl": "Portugal",
+                "fr": "Portugal",
+                "en": "Portugal",
+                "de": "Portugal"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "PR",
+            "translations": {
+                "nl": "Puerto Rico",
+                "fr": "Porto Rico",
+                "en": "Puerto Rico",
+                "de": "Puerto Rico"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "QA",
+            "translations": {
+                "nl": "Qatar",
+                "fr": "Qatar",
+                "en": "Qatar",
+                "de": "Qatar"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "RE",
+            "translations": {
+                "nl": "Reunion",
+                "fr": "R\u00e9union",
+                "en": "Reunion",
+                "de": "Reunion"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "RO",
+            "translations": {
+                "nl": "Roemeni\u00eb",
+                "fr": "Roumanie",
+                "en": "Romania",
+                "de": "Rum\u00e4nien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "RU",
+            "translations": {
+                "nl": "Russische Federatie",
+                "fr": "Russie",
+                "en": "Russian Federation",
+                "de": "Russland"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "RW",
+            "translations": {
+                "nl": "Rwanda",
+                "fr": "Rwanda",
+                "en": "Rwanda",
+                "de": "Rwanda"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "KN",
+            "translations": {
+                "nl": "Saint Kitts en Nevis",
+                "fr": "Saint-Kitts-et-Ni\u00e9v\u00e8s",
+                "en": "Saint Kitts and Nevis",
+                "de": "Saint Kitts and Nevis"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "LC",
+            "translations": {
+                "nl": "Saint Lucia",
+                "fr": "Sainte-Lucie",
+                "en": "Saint Lucia",
+                "de": "Saint Lucia"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "VC",
+            "translations": {
+                "nl": "Saint Vincent and the Grenadines",
+                "fr": "Saint-Vincent-et-les-Grenadines",
+                "en": "Saint Vincent and the Grenadines",
+                "de": "Saint Vincent and the Grenadines"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "PM",
+            "translations": {
+                "nl": "Saint-Pierre en Miquelon",
+                "fr": "Saint-Pierre-et-Miquelon",
+                "en": "St. Pierre and Miquelon",
+                "de": "St. Pierre and Miquelon"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "Sb",
+            "translations": {
+                "nl": "Salomonseilanden",
+                "fr": "\u00celes Salomon",
+                "en": "Solomon Islands",
+                "de": "Solomon Islands"
+            }
+        },
+        {
+            "code": "WS",
+            "translations": {
+                "nl": "Samoa",
+                "fr": "Samoa",
+                "en": "Samoa",
+                "de": "Samoa"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "SM",
+            "translations": {
+                "nl": "San Marino",
+                "fr": "Saint-Marin",
+                "en": "San Marino",
+                "de": "San Marino"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "ST",
+            "translations": {
+                "nl": "Sao Tom\u00e9 en Principe",
+                "fr": "Sao Tom\u00e9-et-Principe",
+                "en": "Sao Tome and Principe",
+                "de": "Sao Tome and Principe"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SA",
+            "translations": {
+                "nl": "Saoedi-Arabi\u00eb",
+                "fr": "Arabie Saoudite",
+                "en": "Saudi Arabia",
+                "de": "Saudi-Arabien"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "SN",
+            "translations": {
+                "nl": "Senegal",
+                "fr": "S\u00e9n\u00e9gal",
+                "en": "Senegal",
+                "de": "Senegal"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SC",
+            "translations": {
+                "nl": "Seychellen",
+                "fr": "Seychelles",
+                "en": "Seychelles",
+                "de": "Seychelles"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SL",
+            "translations": {
+                "nl": "Sierra Leone",
+                "fr": "Sierra Leone",
+                "en": "Sierra Leone",
+                "de": "Sierra Leone"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SG",
+            "translations": {
+                "nl": "Singapore",
+                "fr": "Singapour",
+                "en": "Singapore",
+                "de": "Singapore"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "SH",
+            "translations": {
+                "nl": "Sint-Helena",
+                "fr": "Saint-H\u00e9l\u00e8ne",
+                "en": "St. Helena",
+                "de": "St. Helena"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SI",
+            "translations": {
+                "nl": "Sloveni\u00eb",
+                "fr": "Slov\u00e9nie",
+                "en": "Slovenia",
+                "de": "Slowenien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "SK",
+            "translations": {
+                "nl": "Slowakije",
+                "fr": "Slovaquie",
+                "en": "Slovakia",
+                "de": "Slowakien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "SD",
+            "translations": {
+                "nl": "Soedan",
+                "fr": "Soudan",
+                "en": "Sudan",
+                "de": "Sudan"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SO",
+            "translations": {
+                "nl": "Somali\u00eb",
+                "fr": "Somalie",
+                "en": "Somalia",
+                "de": "Somalia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ES",
+            "translations": {
+                "nl": "Spanje",
+                "fr": "Espagne",
+                "en": "Spain",
+                "de": "Spanien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "SJ",
+            "translations": {
+                "nl": "Spitsberg en Jan Mayen Eilanden",
+                "fr": "Svalbard et \u00eele Jan Mayen",
+                "en": "Svalbard and Jan Mayen Islands",
+                "de": "Svalbard and Jan Mayen Islands"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "LK",
+            "translations": {
+                "nl": "Sri Lanka",
+                "fr": "Sri Lanka",
+                "en": "Sri Lanka",
+                "de": "Sri Lanka"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "SR",
+            "translations": {
+                "nl": "Suriname",
+                "fr": "Suriname",
+                "en": "Suriname",
+                "de": "Suriname"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "SZ",
+            "translations": {
+                "nl": "Swaziland",
+                "fr": "Swaziland",
+                "en": "Swaziland",
+                "de": "Swaziland"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "SY",
+            "translations": {
+                "nl": "Syri\u00eb",
+                "fr": "Syrie",
+                "en": "Syria",
+                "de": "Syrien"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TW",
+            "translations": {
+                "nl": "Taiwan",
+                "fr": "Ta\u00efwan",
+                "en": "Taiwan",
+                "de": "Taiwan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TJ",
+            "translations": {
+                "nl": "Tajikistan",
+                "fr": "Tadjikistan",
+                "en": "Tajikistan",
+                "de": "Tajikistan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TZ",
+            "translations": {
+                "nl": "Tanzania",
+                "fr": "Tanzanie",
+                "en": "Tanzania",
+                "de": "Tanzania"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "CS",
+            "translations": {
+                "nl": "Tczechoslovakije (voormalig)",
+                "fr": "Tch\u00e9coslovaquie",
+                "en": "Czechoslovakia (former)",
+                "de": "Czechoslovakia (former)"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "TH",
+            "translations": {
+                "nl": "Thailand",
+                "fr": "Tha\u00eflande",
+                "en": "Thailand",
+                "de": "Thailand"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TG",
+            "translations": {
+                "nl": "Togo",
+                "fr": "Togo",
+                "en": "Togo",
+                "de": "Togo"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "TK",
+            "translations": {
+                "nl": "Tokelau-eilanden",
+                "fr": "Tokelau",
+                "en": "Tokelau",
+                "de": "Tokelau"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "TO",
+            "translations": {
+                "nl": "Tonga",
+                "fr": "Tonga",
+                "en": "Tonga",
+                "de": "Tonga"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "TT",
+            "translations": {
+                "nl": "Trinidad en Tobago",
+                "fr": "Trinit\u00e9-et-Tobago",
+                "en": "Trinidad and Tobago",
+                "de": "Trinidad and Tobago"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "CZ",
+            "translations": {
+                "nl": "Tsjechi\u00eb",
+                "fr": "R\u00e9publique Tch\u00e8que",
+                "en": "Czech Republic",
+                "de": "Tschechien"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "TN",
+            "translations": {
+                "nl": "Tunisi\u00eb",
+                "fr": "Tunisie",
+                "en": "Tunisia",
+                "de": "Tunesien"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "TR",
+            "translations": {
+                "nl": "Turkije",
+                "fr": "Turquie",
+                "en": "Turkey",
+                "de": "T\u00fcrkei"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "TM",
+            "translations": {
+                "nl": "Turkmenistan",
+                "fr": "Turkm\u00e9nistan",
+                "en": "Turkmenistan",
+                "de": "Turkmenistan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "TC",
+            "translations": {
+                "nl": "Turks- en Caicoseilanden",
+                "fr": "\u00cfles Turks-et-Ca\u00efcos",
+                "en": "Turks and Caicos Islands",
+                "de": "Turks and Caicos Islands"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "TV",
+            "translations": {
+                "nl": "Tuvalu",
+                "fr": "Tuvalu",
+                "en": "Tuvalu",
+                "de": "Tuvalu"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "UG",
+            "translations": {
+                "nl": "Uganda",
+                "fr": "Ouganda",
+                "en": "Uganda",
+                "de": "Uganda"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "UY",
+            "translations": {
+                "nl": "Uruguay",
+                "fr": "Uruguay",
+                "en": "Uruguay",
+                "de": "Uruguay"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "SU",
+            "translations": {
+                "nl": "USSR (voormalig)",
+                "fr": "URSS",
+                "en": "USSR (former)",
+                "de": "USSR (former)"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "UZ",
+            "translations": {
+                "nl": "Uzbekistan",
+                "fr": "Ouzb\u00e9kistan",
+                "en": "Uzbekistan",
+                "de": "Uzbekistan"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "VU",
+            "translations": {
+                "nl": "Vanuatu",
+                "fr": "Vanuatu",
+                "en": "Vanuatu",
+                "de": "Vanuatu"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "VA",
+            "translations": {
+                "nl": "Vaticaanstad",
+                "fr": "Vatican",
+                "en": "Vatican City State (Holy See)",
+                "de": "Vatikanstadt"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "VE",
+            "translations": {
+                "nl": "Venezuela",
+                "fr": "Venezuela",
+                "en": "Venezuela",
+                "de": "Venezuela"
+            },
+            "parent": "SOUTH_AMERICA"
+        },
+        {
+            "code": "UK",
+            "translations": {
+                "nl": "Verenigd Koninkrijk",
+                "fr": "Royaume-Uni",
+                "en": "United Kingdom",
+                "de": "United Kingdom"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "AE",
+            "translations": {
+                "nl": "Verenigde Arabische Emiraten",
+                "fr": "\u00c9mirats Arabes Unis",
+                "en": "United Arab Emirates",
+                "de": "Vereinigte Arabische Emirate"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "US",
+            "translations": {
+                "nl": "Verenigde Staten",
+                "fr": "\u00c9tats-Unis",
+                "en": "United States",
+                "de": "Vereinigten Staaten"
+            },
+            "parent": "NORTH_AMERICA"
+        },
+        {
+            "code": "VN",
+            "translations": {
+                "nl": "Vietnam",
+                "fr": "Vi\u00eat-Nam",
+                "en": "Viet Nam",
+                "de": "Viet Nam"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "WF",
+            "translations": {
+                "nl": "Wallis en Futuna eilanden",
+                "fr": "\u00celes Wallis et Futuna",
+                "en": "Wallis and Futuna Islands",
+                "de": "Wallis and Futuna Islands"
+            },
+            "parent": "OCEANIA"
+        },
+        {
+            "code": "EH",
+            "translations": {
+                "nl": "West-Sahara",
+                "fr": "Sahara Occidental",
+                "en": "Western Sahara",
+                "de": "Western Sahara"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ZR",
+            "translations": {
+                "nl": "Za\u00efre",
+                "fr": "Za\u00efre",
+                "en": "Zaire",
+                "de": "Zaire"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ZM",
+            "translations": {
+                "nl": "Zambia",
+                "fr": "Zambie",
+                "en": "Zambia",
+                "de": "Sambia"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ZW",
+            "translations": {
+                "nl": "Zimbabwe",
+                "fr": "Zimbabwe",
+                "en": "Zimbabwe",
+                "de": "Zimbabwe"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "ZA",
+            "translations": {
+                "nl": "Zuid-Afrika",
+                "fr": "Afrique du sud",
+                "en": "South Africa",
+                "de": "S\u00fcdafrika"
+            },
+            "parent": "AFRICA"
+        },
+        {
+            "code": "GS",
+            "translations": {
+                "nl": "Zuid-Georgi\u00eb en de Zuidelijke Sandwicheilanden",
+                "fr": "G\u00e9orgie du sud-et-les \u00eeles Sandwich du sud",
+                "en": "S. Georgia and S. Sandwich Isls.",
+                "de": "S. Georgia and S. Sandwich Isls."
+            },
+            "parent": "ANTARCTICA"
+        },
+        {
+            "code": "KR",
+            "translations": {
+                "nl": "Zuid-Korea",
+                "fr": "Cor\u00e9e du Sud",
+                "en": "Korea (South)",
+                "de": "S\u00fcddkorea"
+            },
+            "parent": "ASIA"
+        },
+        {
+            "code": "SE",
+            "translations": {
+                "nl": "Zweden",
+                "fr": "Su\u00e8de",
+                "en": "Sweden",
+                "de": "Schweden"
+            },
+            "parent": "EUROPE"
+        },
+        {
+            "code": "CH",
+            "translations": {
+                "nl": "Zwitserland",
+                "fr": "Suisse",
+                "en": "Switzerland",
+                "de": "Schweiz"
+            },
+            "parent": "EUROPE"
+        }
+    ]
+}
