@@ -5,7 +5,9 @@ namespace ride\application\orm\geo\entry;
 use ride\application\orm\entry\GeoLocationEntry as OrmGeoLocationEntry;
 use ride\application\orm\geo\model\GeoLocationModel;
 
-class GeoLocationEntry extends OrmGeoLocationEntry implements GeocodeCoordinate{
+use ride\library\geocode\coordinate\GeocodeCoordinate;
+
+class GeoLocationEntry extends OrmGeoLocationEntry implements GeocodeCoordinate {
 
     public function generatePath() {
         $tokens = array();
