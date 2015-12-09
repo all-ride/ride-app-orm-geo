@@ -1,7 +1,7 @@
 {
     "name": "ride/app-orm-geo",
     "description": "Geo location model for the Ride ORM.",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -17,7 +17,7 @@
     "autoload": {
         "psr-0": {
             "ride\\application\\orm\\geo\\": ["src/"],
-            "ride\\service\\\\": ["src/"]
+            "ride\\service\\": ["src/"]
         }
     }
 }
