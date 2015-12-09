@@ -14,6 +14,7 @@ class GeoImportService {
         $this->model = $geoLocationModel;
         $this->fileBrowser = $fileBrowser;
         $this->path = trim($path, '/');
+        $this->locales = $this->model->getOrmManager()->getLocales();
     }
 
     /**
@@ -46,9 +47,7 @@ class GeoImportService {
         }
 
         $content = $file->read();
-
         $parents = array();
-        $locales = $this->model->getOrmManager()->getLocales();
 
         $lines = explode("\n", $content);
         foreach ($lines as $i => $line) {
@@ -105,7 +104,7 @@ class GeoImportService {
                 $location->setLongitude($longitude);
             }
 
-            foreach ($locales as $locale) {
+            foreach ($this->locales as $locale) {
                 $location->setLocale($locale);
                 $location->setName($name);
 
@@ -118,7 +117,6 @@ class GeoImportService {
         $parents = array($country->getCode() => $country);
 
         $json = $this->readFile($this->path . '/region-' . strtolower($country->getCode()) . '.json');
-        var_export($json);
         if (isset($json['region'])) {
             $parents = $this->importLocations(GeoLocationModel::TYPE_REGION, $json['region'], $parents);
         }
@@ -155,11 +153,14 @@ class GeoImportService {
                 }
             }
 
-            foreach ($data['translations'] as $locale => $name) {
-                $location->setName($name);
-                $location->setLocale($locale);
+            foreach ($this->locales as $locale) {
+                $language = strtolower(substr($locale, 0, 2));
+                if (isset($data['translations'][$locale])) {
+                    $location->setName($data['translations'][$locale]);
+                    $location->setLocale($locale);
 
-                $this->model->save($location);
+                    $this->model->save($location);
+                }
             }
 
             $result[$data['code']] = $location;
