@@ -20,6 +20,14 @@
                             "properties": {
                                 "value": "data/geo"
                             }
+                        },
+                        {
+                            "name": "locales",
+                            "type": "call",
+                            "properties": {
+                                "interface": "ride\\library\\i18n\\I18n",
+                                "method": "getLocaleCodeList"
+                            }
                         }
                     ]
                 }

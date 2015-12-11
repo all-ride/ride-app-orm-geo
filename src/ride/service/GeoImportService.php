@@ -10,11 +10,11 @@ use \Exception;
 
 class GeoImportService {
 
-    public function __construct(GeoLocationModel $geoLocationModel, FileBrowser $fileBrowser, $path) {
+    public function __construct(GeoLocationModel $geoLocationModel, FileBrowser $fileBrowser, $path, array $locales) {
         $this->model = $geoLocationModel;
         $this->fileBrowser = $fileBrowser;
         $this->path = trim($path, '/');
-        $this->locales = $this->model->getOrmManager()->getLocales();
+        $this->locales = $locales;
     }
 
     /**
@@ -39,7 +39,7 @@ class GeoImportService {
         }
         $this->importRegions($country);
 
-        $fileName = $this->path . '/geonames/' . strtolower($countryCode) . '.txt';
+        $fileName = $this->path . '/geonames/' . strtoupper($countryCode) . '.txt';
 
         $file = $this->fileBrowser->getFile($fileName);
         if (!$file) {
@@ -155,8 +155,8 @@ class GeoImportService {
 
             foreach ($this->locales as $locale) {
                 $language = strtolower(substr($locale, 0, 2));
-                if (isset($data['translations'][$locale])) {
-                    $location->setName($data['translations'][$locale]);
+                if (isset($data['translations'][$language])) {
+                    $location->setName($data['translations'][$language]);
                     $location->setLocale($locale);
 
                     $this->model->save($location);
