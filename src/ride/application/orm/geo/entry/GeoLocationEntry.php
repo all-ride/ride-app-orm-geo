@@ -9,6 +9,10 @@ use ride\library\geocode\coordinate\GeocodeCoordinate;
 
 class GeoLocationEntry extends OrmGeoLocationEntry implements GeocodeCoordinate {
 
+    public function __toString() {
+        return $this->getName();
+    }
+
     public function generatePath() {
         $tokens = array();
 
