@@ -24,13 +24,12 @@
             <option name="scaffold.search" value="true"/>
             <validation name="required"/>
         </field>
-        <field name="latitude" type="float"/>
-        <field name="longitude" type="float"/>
 
         <format name="title">{name}</format>
         <format name="teaser">{type} {code}</format>
         <format name="list">{name} ({code})</format>
 
+        <option name="behaviour.geo" value="name"/>
         <option name="json.api" value="geo-locations"/>
         <option name="order.field" value="name" />
     </model>
