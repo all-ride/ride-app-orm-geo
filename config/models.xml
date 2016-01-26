@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <models>
-    <model name="GeoLocation" modelClass="ride\application\orm\geo\model\GeoLocationModel" entryClass="ride\application\orm\geo\entry\GeoLocationEntry">
+    <model name="GeoLocation" modelClass="ride\application\orm\geo\model\GeoLocationModel" entryClass="ride\application\orm\geo\entry\GeoLocationEntry" willBlockDeleteWhenUsed="true">
         <field name="path" type="string">
+            <option name="scaffold.form.type" value="label"/>
             <validation name="required"/>
         </field>
         <field name="parent" model="GeoLocation" relation="belongsTo">
+            <option name="scaffold.form.type" value="geo"/>
             <option name="scaffold.search" value="true"/>
         </field>
         <field name="children" model="GeoLocation" relation="hasMany" foreignKey="parent">
+            <option name="scaffold.form.type" value="geo"/>
             <option name="scaffold.search" value="true"/>
         </field>
         <field name="type" type="string">
+            <option name="scaffold.form.options.method" value="getTypeOptions"/>
+            <option name="scaffold.form.type" value="select"/>
             <option name="scaffold.search" value="true"/>
             <validation name="required"/>
         </field>

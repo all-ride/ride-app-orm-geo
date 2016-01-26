@@ -4,6 +4,7 @@ namespace ride\application\orm\geo\model;
 
 use ride\application\orm\entry\SurveyEntry;
 
+use ride\library\i18n\translator\Translator;
 use ride\library\orm\model\GenericModel;
 
 /**
@@ -46,6 +47,21 @@ class GeoLocationModel extends GenericModel {
      * @var string
      */
     const TYPE_CITY = 'city';
+
+    /**
+     * Gets the options for the type field
+     * @param \ride\library\i18n\translator\Translator $translator
+     * @return array
+     */
+    public function getTypeOptions(Translator $translator) {
+        return array(
+            self::TYPE_CITY => $translator->translate('label.city'),
+            self::TYPE_PROVINCE => $translator->translate('label.province'),
+            self::TYPE_REGION => $translator->translate('label.region'),
+            self::TYPE_COUNTRY => $translator->translate('label.country'),
+            self::TYPE_CONTINENT => $translator->translate('label.continent'),
+        );
+    }
 
     /**
      * Saves the entry
