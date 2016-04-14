@@ -62,9 +62,10 @@ class GeoLocationEntry extends OrmGeoLocationEntry implements GeocodeCoordinate 
      * @return string
      */
     public function getGeocodeAddress() {
+        $type = $this->getType();
         $address = $this->getName();
 
-        if ($this->getType() == GeoLocationModel::TYPE_CITY) {
+        if ($type == GeoLocationModel::TYPE_CITY || $type == GeoLocationModel::TYPE_SECTOR) {
             $address = $this->getCode() . ' ' . $address;
         }
 
