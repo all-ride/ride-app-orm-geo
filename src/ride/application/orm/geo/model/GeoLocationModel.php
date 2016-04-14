@@ -49,6 +49,12 @@ class GeoLocationModel extends GenericModel {
     const TYPE_CITY = 'city';
 
     /**
+     * Type of a sector
+     * @var string
+     */
+    const TYPE_SECTOR = 'sector';
+
+    /**
      * Gets the options for the type field
      * @param \ride\library\i18n\translator\Translator $translator
      * @return array
