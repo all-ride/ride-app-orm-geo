@@ -61,6 +61,7 @@ class GeoLocationModel extends GenericModel {
      */
     public function getTypeOptions(Translator $translator) {
         return array(
+            self::TYPE_SECTOR => $translator->translate('label.sector'),
             self::TYPE_CITY => $translator->translate('label.city'),
             self::TYPE_PROVINCE => $translator->translate('label.province'),
             self::TYPE_REGION => $translator->translate('label.region'),
