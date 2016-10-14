@@ -34,6 +34,15 @@
         <format name="teaser">{type} {code}</format>
         <format name="list">{name} ({code})</format>
 
+        <index name="codeTypePath">
+            <indexField name="code"/>
+            <indexField name="type"/>
+            <indexField name="path"/>
+        </index>
+        <index name="name">
+            <indexField name="name"/>
+        </index>
+
         <option name="behaviour.geo" value="name"/>
         <option name="json.api" value="geo-locations"/>
         <option name="order.field" value="name" />
