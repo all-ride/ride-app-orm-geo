@@ -1,7 +1,7 @@
 {
     "name": "ride/app-orm-geo",
     "description": "Geo location model for the Ride ORM.",
-    "version": "0.4.3",
+    "license": "MIT",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -9,10 +9,12 @@
         }
     ],
     "require": {
-        "ride/app-orm": ">=0.2.0",
-        "ride/lib-geocode": "*",
-        "ride/lib-orm": ">=0.3.0",
-        "ride/lib-system": "*"
+        "ride/app": "^1.0.0",
+        "ride/app-geocode": "^1.0.0",
+        "ride/app-orm": "^1.0.0",
+        "ride/lib-geocode": "^1.0.0",
+        "ride/lib-orm": "^1.0.0",
+        "ride/lib-system": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
